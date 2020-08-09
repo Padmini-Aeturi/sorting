@@ -1,7 +1,7 @@
 # sorting illustration
 **bubblesort.py,mergesort.py,quicksort.py,insertion.py,selection.py**  are just implementations of sorting algorithms,**button.py** is a pygame program to get button ,and **slider.py** is a pygame program to get slider for maintaining the speed of illustration.
-**window.py** is a pygame program to window .One can directly download window.exe for window.<br>
-<img src="images\sorting.gif">
+**window.py** is a pygame program to window .One can directly download window.exe for window.<br><br><br>
+<img src="images\sorting.gif"><br><br><br>
 Here is the image of window<img src="images\window.png">
 Here are the images of illustrations of different sorting Algorithm.<br/>
 1.Bubble sort Algorithm <img src="images\bubblesort.png">
